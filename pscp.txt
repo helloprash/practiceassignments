@@ -1,0 +1,5 @@
+pscp <windowspathfile> user@host:<linuxpathfile>
+pscp status.c pi@10.0.0.2:/pi/home/prashanth
+
+pscp user@host:<linuxPathfile> <WindowsPathfile>
+pscp pi@10.0.02:/pi/home/prashanth ./
